@@ -1,0 +1,7 @@
+# 马尔可夫预测器配置
+markov:
+  smooth: 1.0
+  window: null  # null 表示使用全部历史
+  sum_smooth_factor: 0.5  # 和值马尔可夫平滑因子 = smooth * sum_smooth_factor
+  sum_theory_weight: 0.30
+  sum_markov_weight: 0.70

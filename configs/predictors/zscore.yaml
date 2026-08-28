@@ -1,0 +1,14 @@
+# Z-Score 预测器配置
+zscore:
+  threshold: 2.0
+  temperature: 2.0
+  window: 200
+  cold_weight: 0.65
+  recent_weight: 0.25
+  uniform_weight: 0.10
+  sum_cold_weight: 0.45
+  sum_recent_weight: 0.30
+  sum_theory_weight: 0.25
+  recent_decay: 0.03
+  sum_recent_decay: 0.03
+  sum_recent_smooth: 0.5

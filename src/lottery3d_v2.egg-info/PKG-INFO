@@ -1,0 +1,126 @@
+Metadata-Version: 2.4
+Name: lottery3d-v2
+Version: 2.0.0
+Summary: 福彩3D智能推荐系统 v2.0 - 模块化、可配置、可验证的预测框架
+Author-email: ynflcp <ynflcp@example.com>
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.0
+Requires-Dist: pandas>=2.0
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: scipy>=1.13
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: pytest-cov>=5.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: mypy>=1.10; extra == "dev"
+Requires-Dist: pre-commit>=3.0; extra == "dev"
+Requires-Dist: joblib>=1.4; extra == "dev"
+Requires-Dist: optuna>=3.6; extra == "dev"
+Provides-Extra: api
+Requires-Dist: fastapi>=0.110; extra == "api"
+Requires-Dist: uvicorn>=0.29; extra == "api"
+
+# 福彩3D智能推荐系统 v2.0
+
+模块化、可配置、可验证的预测框架。
+
+## 特性
+
+- **模块化架构**：预测器基类 + 注册表模式，易于扩展
+- **配置驱动**：YAML 配置管理所有超参数，支持版本控制
+- **完整验证体系**：回测、温度校准、随机对照、前向日志
+- **概率输出**：位置概率、和值概率、最佳两位组合
+- **集成学习**：加权集成 + 动态权重调整
+- **工程质量**：类型注解、单元测试、CI/CD 就绪
+
+## 快速开始
+
+```bash
+# 安装依赖
+pip install -e .[dev]
+
+# 查看数据快照
+lottery3d-snapshot --csv data/3d_full_history.csv
+
+# 下一期预测（自动应用温度校准）
+lottery3d-predict --csv data/3d_full_history.csv --calibrated
+
+# 回测验证
+lottery3d-backtest --csv data/3d_full_history.csv --periods 200
+
+# 温度校准
+lottery3d-calibrate --csv data/3d_full_history.csv --position-specific
+
+# 随机对照检验
+lottery3d-randomize --csv data/3d_full_history.csv --sims 50
+```
+
+## 项目结构
+
+```
+lottery3d-v2/
+├── configs/                 # YAML 配置文件
+│   ├── base.yaml           # 通用参数
+│   ├── predictors/         # 各预测器独立配置
+│   ├── ensemble/           # 集成权重配置
+│   └── calibration/        # 校准参数
+├── data/                   # 历史数据（CSV/SQLite）
+├── results/                # 预测结果、校准结果、日志
+├── scripts/                # 旧版脚本（兼容迁移）
+├── src/
+│   └── lottery3d_v2/       # 核心包
+│       ├── __init__.py
+│       ├── cli.py          # CLI 入口
+│       ├── config.py       # 配置加载
+│       ├── schema.py       # 数据模型
+│       ├── history.py      # 历史数据加载
+│       ├── features.py     # 特征工程
+│       ├── utils.py        # 核心数学工具
+│       ├── base.py         # 预测器基类
+│       ├── predictors/     # 预测器实现
+│       ├── ensemble.py     # 集成预测器
+│       ├── validation.py   # 回测验证
+│       └── calibration.py  # 温度校准
+└── tests/                  # 单元测试
+```
+
+## 配置说明
+
+所有超参数通过 `configs/` 目录下的 YAML 文件管理：
+
+- `base.yaml`：窗口大小、Top-K 等通用参数
+- `predictors/*.yaml`：各预测器专用参数
+- `ensemble/*.yaml`：集成权重
+- `calibration/*.yaml`：温度校准策略
+
+## 核心预测器
+
+| 预测器 | 原理 | 适用场景 |
+|--------|------|----------|
+| `markov` | 一阶马尔可夫链 | 短期趋势捕捉 |
+| `ewma` | 指数加权移动平均 | 平滑趋势 |
+| `amplitude` | 振幅分析 | 振荡模式 |
+| `zscore` | 遗漏 Z-score + 近期频率 | 冷热号平衡 |
+| `parity` | 奇偶形态混合 | 奇偶分布 |
+| `prime` | 质数形态混合 | 质数分布 |
+| `ac_value` | AC值形态混合 | 组合差异度 |
+| `span` | 跨度形态混合 | 号码跨度 |
+| `road012` | 012路形态混合 | 取模分布 |
+
+## 验证指标
+
+- **Top1/Top3 命中率**：位置级命中统计
+- **两位严格/任一命中**：组合命中统计
+- **LogLoss / Brier Score**：概率校准质量
+- **Z-test / P-value**：统计显著性检验
+
+## 许可证
+
+MIT License

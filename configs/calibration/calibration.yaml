@@ -1,0 +1,31 @@
+# 温度校准配置
+calibration:
+  # 温度搜索网格
+  temperature_grid:
+    - start: 0.10
+      stop: 2.00
+      step: 0.05
+    - start: 2.00
+      stop: 5.00
+      step: 0.10
+    - start: 5.00
+      stop: 20.00
+      step: 0.50
+
+  # Holdout 校准
+  holdout:
+    calib_ratio: 0.5
+    position_specific: true
+
+  # 滚动校准
+  rolling:
+    warmup_periods: 50
+    window_periods: 100
+    position_specific: true
+
+  # 基准值（随机猜测）
+  baseline:
+    logloss_per_position: 2.302585  # log(10)
+    logloss_total: 6.907755         # 3 * log(10)
+    brier_per_position: 0.9
+    brier_total: 2.7

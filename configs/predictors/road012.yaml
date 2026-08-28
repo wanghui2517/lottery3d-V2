@@ -1,0 +1,10 @@
+# 012路预测器配置
+road012:
+  alpha: 0.3
+  window: 100
+  roads_per_position: 2
+  categorical_weight: 0.80
+  neighbor_weight: 0.20
+  sum_theory_weight: 0.25
+  sum_recent_weight: 0.55
+  sum_neighbor_weight: 0.20

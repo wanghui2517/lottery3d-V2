@@ -1,0 +1,31 @@
+# 通用基础配置
+general:
+  # 历史数据窗口（用于统计的期数）
+  default_window: 100
+  # 最小训练样本数
+  min_train_samples: 50
+  # 预测输出候选数
+  top_k: 3
+  # 数字状态数（0-9）
+  digit_n: 10
+  # 和值状态数（0-27）
+  sum_n: 28
+
+# 数据路径
+paths:
+  history_csv: "data/3d_full_history.csv"
+  history_sqlite: "data/history.db"
+  results_dir: "results"
+  calibration_dir: "results/calibration"
+  forward_log: "results/forward_log.csv"
+
+# 回测配置
+backtest:
+  default_periods: 200
+  default_train_window: null  # null 表示使用全部历史
+  confidence_level: 0.95
+
+# 随机对照配置
+randomization:
+  default_sims: 100
+  default_seed: 42

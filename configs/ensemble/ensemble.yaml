@@ -1,0 +1,30 @@
+# 完整集成配置
+full:
+  predictors:
+    - name: "markov"
+      weight: 0.30
+    - name: "span"
+      weight: 0.25
+      config_override:
+        method: "recent"
+    - name: "parity"
+      weight: 0.15
+    - name: "prime"
+      weight: 0.15
+    - name: "zscore"
+      weight: 0.15
+  top_k: 3
+
+# 简化集成配置
+simple:
+  predictors:
+    - name: "markov"
+      weight: 0.60
+    - name: "zscore"
+      weight: 0.40
+  top_k: 3
+
+# 市场调整集成配置
+payout_adjusted:
+  base_predictor: "markov"
+  top_k: 3

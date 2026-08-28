@@ -1,0 +1,2 @@
+[console_scripts]
+lottery3d = lottery3d_v2.cli:main

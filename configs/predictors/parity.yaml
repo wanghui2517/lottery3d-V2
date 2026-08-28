@@ -1,0 +1,9 @@
+# 奇偶预测器配置
+parity:
+  alpha: 0.3
+  window: 100
+  categorical_weight: 0.75
+  neighbor_weight: 0.25
+  sum_theory_weight: 0.25
+  sum_recent_weight: 0.55
+  sum_neighbor_weight: 0.20
