@@ -11,6 +11,7 @@ Classifier: Programming Language :: Python :: 3.11
 Classifier: Programming Language :: Python :: 3.12
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
+License-File: LICENSE
 Requires-Dist: numpy>=2.0
 Requires-Dist: pandas>=2.0
 Requires-Dist: pyyaml>=6.0
@@ -26,6 +27,7 @@ Requires-Dist: optuna>=3.6; extra == "dev"
 Provides-Extra: api
 Requires-Dist: fastapi>=0.110; extra == "api"
 Requires-Dist: uvicorn>=0.29; extra == "api"
+Dynamic: license-file
 
 # 福彩3D智能推荐系统 v2.0
 

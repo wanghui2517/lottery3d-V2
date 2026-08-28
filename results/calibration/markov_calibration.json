@@ -1,0 +1,64 @@
+{
+  "mode": "holdout",
+  "position_specific": true,
+  "calib_periods": 169,
+  "test_periods": 169,
+  "global_temperature": null,
+  "position_temperatures": {
+    "0": 4.600000000000002,
+    "1": 20.0,
+    "2": 20.0
+  },
+  "baseline": {
+    "logloss_per_position": 2.302585,
+    "logloss_total": 6.907755,
+    "brier_per_position": 0.9,
+    "brier_total": 2.7
+  },
+  "records": 1014,
+  "calib": {
+    "uncalibrated": {
+      "records": 507,
+      "periods": 169,
+      "top1": 0.09467455621301775,
+      "top3": 0.29191321499013806,
+      "logloss_per_position": 2.40912548234841,
+      "logloss_total": 7.227376447045231,
+      "brier_per_position": 0.9221919482041392,
+      "brier_total": 2.766575844612418
+    },
+    "calibrated": {
+      "records": 507,
+      "periods": 169,
+      "top1": 0.09467455621301775,
+      "top3": 0.29191321499013806,
+      "logloss_per_position": 2.3015803023546053,
+      "logloss_total": 6.904740907063816,
+      "brier_per_position": 0.8998204333028549,
+      "brier_total": 2.6994612999085645
+    }
+  },
+  "test": {
+    "uncalibrated": {
+      "records": 507,
+      "periods": 169,
+      "top1": 0.10848126232741617,
+      "top3": 0.3254437869822485,
+      "logloss_per_position": 2.408689522739426,
+      "logloss_total": 7.2260685682182775,
+      "brier_per_position": 0.9210088290737255,
+      "brier_total": 2.7630264872211763
+    },
+    "calibrated": {
+      "records": 507,
+      "periods": 169,
+      "top1": 0.10848126232741617,
+      "top3": 0.3254437869822485,
+      "logloss_per_position": 2.30367807459234,
+      "logloss_total": 6.91103422377702,
+      "brier_per_position": 0.9001930039143264,
+      "brier_total": 2.7005790117429793
+    }
+  },
+  "model_name": "ensemble"
+}
