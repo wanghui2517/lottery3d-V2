@@ -7,6 +7,7 @@ from itertools import combinations
 from typing import Any
 
 import numpy as np
+from loguru import logger
 
 from .config import get_config, merge_configs
 from .history import ensure_history

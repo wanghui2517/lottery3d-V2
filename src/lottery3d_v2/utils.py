@@ -7,6 +7,7 @@ from itertools import product
 import math
 
 import numpy as np
+from loguru import logger
 
 
 DIGIT_N = 10
@@ -105,18 +106,40 @@ def top_k_from_proba(prob: np.ndarray, k: int = 3) -> list[int]:
     return result[:k]
 
 
+@lru_cache(maxsize=128)
+def _ewma_cached(values_tuple: tuple, alpha: float) -> float:
+    """EWMA 缓存实现"""
+    values = np.array(values_tuple, dtype=float)
+    if values.size == 0:
+        return 0.0
+    state = float(values[0])
+    for x in values[1:]:
+        state = alpha * float(x) + (1.0 - alpha) * state
+    return float(state)
+
+
 def ewma(values: np.ndarray, alpha: float = 0.3) -> float:
-    """指数加权移动平均"""
+    """指数加权移动平均（带缓存）"""
     values = np.asarray(values, dtype=float)
 
     if values.size == 0:
         return 0.0
-
-    state = float(values[0])
-    for x in values[1:]:
-        state = alpha * float(x) + (1.0 - alpha) * state
-
-    return float(state)
+    
+    # 对于短序列直接使用向量化计算
+    if values.size <= 50:
+        weights = alpha * np.power(1 - alpha, np.arange(values.size - 1, -1, -1))
+        weights /= weights.sum()
+        return float(np.dot(values, weights))
+    
+    # 长序列使用缓存版本
+    try:
+        return _ewma_cached(tuple(values[-50:]), alpha)
+    except TypeError:
+        # 如果无法哈希，回退到原始实现
+        state = float(values[0])
+        for x in values[1:]:
+            state = alpha * float(x) + (1.0 - alpha) * state
+        return float(state)
 
 
 def categorical_recent_proba(
@@ -231,7 +254,8 @@ def combine_categorical_and_neighbor(
 
     try:
         center_int = int(round(float(center)))
-    except Exception:
+    except (ValueError, TypeError) as e:
+        logger.debug(f"Failed to convert center {center!r} to int: {e}")
         return cat_prob
 
     neigh_prob = neighbor_proba(

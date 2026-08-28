@@ -10,6 +10,7 @@ from typing import Any
 
 import numpy as np
 import pandas as pd
+from loguru import logger
 
 from .schema import HistoryRow
 from .utils import DIGIT_N
@@ -48,7 +49,8 @@ def to_float(value: Any) -> float | None:
         if s == "":
             return None
         return float(s)
-    except Exception:
+    except (ValueError, TypeError) as e:
+        logger.debug(f"Failed to convert {value!r} to float: {e}")
         return None
 
 

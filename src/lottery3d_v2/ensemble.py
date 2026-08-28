@@ -7,6 +7,7 @@ from typing import Any
 
 import numpy as np
 import yaml
+from loguru import logger
 
 from .base import BasePredictor, build_predictor
 from .config import get_config
@@ -71,7 +72,10 @@ class EnsemblePredictor(BasePredictor):
         for weight, predictor in zip(self.weights, self.predictors):
             try:
                 result = predictor._predict_proba(history)
-            except Exception:
+            except (ValueError, RuntimeError, KeyError, IndexError) as e:
+                logger.warning(
+                    f"Predictor {predictor.name} failed: {type(e).__name__}: {e}"
+                )
                 continue
 
             positions_proba = result.positions_proba
