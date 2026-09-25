@@ -1,12 +1,6 @@
-```
-# Python cache
+# Python bytecode and cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Test coverage
-.coverage
-htmlcov/
-.coverage.*
-```
+# Packaging metadata
+*.egg-info/

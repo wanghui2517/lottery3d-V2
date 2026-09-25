@@ -37,6 +37,7 @@ class HistoryRow:
     prize: float | None = None
     single_wins: float | None = None
     date: str | None = None
+    jackpot: float | None = None        # 奖池金额（可为空以兼容旧数据）
 
 
 @dataclass

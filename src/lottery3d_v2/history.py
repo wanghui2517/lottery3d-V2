@@ -75,6 +75,7 @@ def _row_from_mapping(row: dict) -> HistoryRow | None:
     single_wins = to_float(
         row.get("single_winning_count", row.get("单选中奖注数"))
     )
+    jackpot = to_float(row.get("奖池金额"))
 
     return HistoryRow(
         issue=str(issue) if issue is not None else None,
@@ -83,6 +84,7 @@ def _row_from_mapping(row: dict) -> HistoryRow | None:
         prize=prize,
         single_wins=single_wins,
         date=str(date) if date is not None else None,
+        jackpot=jackpot,
     )
 
 
@@ -245,7 +247,8 @@ def market_sha256(history: list[HistoryRow]) -> str:
             f"|{row.digits[0]},{row.digits[1]},{row.digits[2]}"
             f"|{row.single_wins if row.single_wins is not None else ''}"
             f"|{row.sales if row.sales is not None else ''}"
-            f"|{row.prize if row.prize is not None else ''}\n"
+            f"|{row.prize if row.prize is not None else ''}"
+            f"|{row.jackpot if row.jackpot is not None else ''}\n"
         )
         h.update(line.encode("utf-8"))
     return h.hexdigest()
