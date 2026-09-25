@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 # 导入触发 @register_predictor 装饰器
-from . import trend, morphology, omission, market  # noqa: F401
+from . import trend, morphology, omission, market, anti_prize  # noqa: F401
 
 from .trend import EWMAPredictor, AmplitudePredictor, MarkovPredictor
 from .morphology import (
@@ -15,6 +15,14 @@ from .morphology import (
 )
 from .omission import ZScorePredictor
 from .market import PayoutMarketAnalyzer, PayoutAdjustedPredictor
+from .anti_prize import (
+    AntiPrizeAnalyzer,
+    estimate_crowding,
+    classify_crowd_share,
+    anti_prize_rate,
+    anti_prize_penalty,
+    SINGLE_PRIZE,
+)
 
 from ..ensemble import EnsemblePredictor
 from ..base import (
