@@ -1,0 +1,4102 @@
+{
+  "updated_at": "2026-09-25 10:21:22",
+  "samples": 503,
+  "grades": [
+    "good",
+    "reckless",
+    "reckless",
+    "excellent",
+    "good",
+    "poor",
+    "good",
+    "poor_cold",
+    "good",
+    "good",
+    "poor",
+    "bonus",
+    "poor_cold",
+    "excellent",
+    "good",
+    "poor",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "reckless",
+    "poor",
+    "poor",
+    "reckless",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "reckless",
+    "good",
+    "poor_cold",
+    "poor_cold",
+    "excellent",
+    "bonus",
+    "bonus",
+    "excellent",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "good",
+    "poor",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "excellent",
+    "poor_cold",
+    "excellent",
+    "poor",
+    "bonus",
+    "good",
+    "poor",
+    "poor",
+    "poor",
+    "poor",
+    "excellent",
+    "bonus",
+    "good",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "poor",
+    "good",
+    "reckless",
+    "good",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "reckless",
+    "good",
+    "excellent",
+    "excellent",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "poor_cold",
+    "poor_cold",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "excellent",
+    "excellent",
+    "poor",
+    "bonus",
+    "poor",
+    "poor",
+    "poor",
+    "excellent",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "reckless",
+    "excellent",
+    "reckless",
+    "good",
+    "good",
+    "reckless",
+    "poor",
+    "reckless",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "jackpot",
+    "good",
+    "good",
+    "poor",
+    "reckless",
+    "bonus",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "excellent",
+    "reckless",
+    "good",
+    "poor",
+    "excellent",
+    "excellent",
+    "poor_cold",
+    "poor",
+    "excellent",
+    "poor_cold",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "excellent",
+    "poor_cold",
+    "good",
+    "jackpot",
+    "poor_cold",
+    "good",
+    "poor",
+    "poor_cold",
+    "good",
+    "good",
+    "good",
+    "good",
+    "poor",
+    "poor",
+    "excellent",
+    "good",
+    "bonus",
+    "excellent",
+    "excellent",
+    "good",
+    "good",
+    "jackpot",
+    "good",
+    "good",
+    "excellent",
+    "good",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "excellent",
+    "good",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "excellent",
+    "good",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "poor",
+    "excellent",
+    "excellent",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "excellent",
+    "poor_cold",
+    "excellent",
+    "poor_cold",
+    "bonus",
+    "excellent",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "reckless",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "poor",
+    "poor",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "poor",
+    "poor",
+    "poor",
+    "jackpot",
+    "good",
+    "good",
+    "poor_cold",
+    "excellent",
+    "bonus",
+    "excellent",
+    "poor_cold",
+    "poor",
+    "excellent",
+    "poor",
+    "poor",
+    "excellent",
+    "poor",
+    "good",
+    "poor",
+    "reckless",
+    "poor",
+    "good",
+    "excellent",
+    "poor",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor",
+    "good",
+    "poor",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "good",
+    "good",
+    "reckless",
+    "reckless",
+    "good",
+    "good",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor",
+    "good",
+    "reckless",
+    "good",
+    "poor",
+    "bonus",
+    "excellent",
+    "poor_cold",
+    "excellent",
+    "bonus",
+    "bonus",
+    "bonus",
+    "excellent",
+    "poor",
+    "good",
+    "good",
+    "good",
+    "good",
+    "excellent",
+    "bonus",
+    "poor",
+    "bonus",
+    "poor_cold",
+    "good",
+    "good",
+    "good",
+    "reckless",
+    "good",
+    "poor_cold",
+    "poor",
+    "good",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "good",
+    "bonus",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "reckless",
+    "poor",
+    "good",
+    "poor_cold",
+    "jackpot",
+    "good",
+    "jackpot",
+    "poor",
+    "good",
+    "jackpot",
+    "good",
+    "bonus",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "good",
+    "excellent",
+    "poor",
+    "reckless",
+    "good",
+    "excellent",
+    "poor",
+    "poor",
+    "poor_cold",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "good",
+    "bonus",
+    "poor_cold",
+    "poor",
+    "jackpot",
+    "bonus",
+    "bonus",
+    "good",
+    "poor",
+    "poor",
+    "reckless",
+    "good",
+    "bonus",
+    "good",
+    "poor",
+    "good",
+    "excellent",
+    "poor",
+    "bonus",
+    "poor",
+    "excellent",
+    "good",
+    "poor_cold",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "excellent",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "poor",
+    "poor",
+    "good",
+    "poor",
+    "reckless",
+    "poor",
+    "poor",
+    "good",
+    "poor",
+    "poor",
+    "poor",
+    "good",
+    "jackpot",
+    "excellent",
+    "poor_cold",
+    "poor",
+    "poor_cold",
+    "bonus",
+    "good",
+    "poor",
+    "poor",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "poor_cold",
+    "poor_cold",
+    "bonus",
+    "poor_cold",
+    "poor_cold",
+    "excellent",
+    "excellent",
+    "poor_cold",
+    "bonus",
+    "excellent",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "poor_cold",
+    "excellent",
+    "bonus",
+    "poor_cold",
+    "bonus",
+    "excellent",
+    "poor",
+    "reckless",
+    "reckless",
+    "poor",
+    "good",
+    "good",
+    "reckless",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "excellent",
+    "bonus",
+    "poor_cold",
+    "poor",
+    "good",
+    "good",
+    "excellent",
+    "bonus",
+    "reckless",
+    "good",
+    "good",
+    "excellent",
+    "poor",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "reckless",
+    "good",
+    "reckless",
+    "poor",
+    "poor",
+    "good",
+    "poor",
+    "good",
+    "bonus",
+    "poor_cold",
+    "excellent",
+    "poor_cold",
+    "excellent",
+    "poor",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "good",
+    "poor",
+    "reckless",
+    "reckless",
+    "good",
+    "poor",
+    "good",
+    "reckless",
+    "good",
+    "jackpot",
+    "jackpot",
+    "bonus",
+    "poor_cold",
+    "excellent",
+    "poor_cold",
+    "bonus",
+    "bonus",
+    "bonus",
+    "poor_cold",
+    "good",
+    "poor",
+    "poor_cold",
+    "poor_cold",
+    "excellent",
+    "bonus"
+  ],
+  "stake_multiplier": 0.72,
+  "signal_stats": {
+    "cold_reversion": {
+      "n": 187,
+      "hits": 125,
+      "pnl_sum": -730.0
+    },
+    "normal": {
+      "n": 108,
+      "hits": 74,
+      "pnl_sum": -760.0
+    },
+    "hot_penalty": {
+      "n": 143,
+      "hits": 74,
+      "pnl_sum": 410.0
+    },
+    "extreme_hot": {
+      "n": 48,
+      "hits": 25,
+      "pnl_sum": -220.0
+    },
+    "jackpot_defense": {
+      "n": 10,
+      "hits": 2,
+      "pnl_sum": -240.0
+    },
+    "greedy_momentum": {
+      "n": 7,
+      "hits": 4,
+      "pnl_sum": -210.0
+    }
+  },
+  "signal_baseline": {
+    "cold_reversion": 1.5,
+    "normal": 0.7765367114664179,
+    "hot_penalty": 1.5,
+    "extreme_hot": 1.5,
+    "jackpot_defense": 0.5,
+    "greedy_momentum": 0.5
+  },
+  "model_stats": {
+    "frequency": {
+      "n": 503,
+      "hits": 460
+    },
+    "markov": {
+      "n": 503,
+      "hits": 460
+    },
+    "cold_reversion": {
+      "n": 503,
+      "hits": 460
+    },
+    "sum_span": {
+      "n": 503,
+      "hits": 460
+    },
+    "ml": {
+      "n": 503,
+      "hits": 460
+    }
+  },
+  "model_weights": {
+    "frequency": 0.2,
+    "markov": 0.2,
+    "cold_reversion": 0.2,
+    "sum_span": 0.2,
+    "ml": 0.2
+  },
+  "history": [
+    {
+      "issue": "2024303",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.0
+    },
+    {
+      "issue": "2024304",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.75
+    },
+    {
+      "issue": "2024305",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.562
+    },
+    {
+      "issue": "2024306",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.675
+    },
+    {
+      "issue": "2024307",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.675
+    },
+    {
+      "issue": "2024308",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.607
+    },
+    {
+      "issue": "2024309",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.607
+    },
+    {
+      "issue": "2024310",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.547
+    },
+    {
+      "issue": "2024311",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.547
+    },
+    {
+      "issue": "2024312",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.547
+    },
+    {
+      "issue": "2024313",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.492
+    },
+    {
+      "issue": "2024314",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.59
+    },
+    {
+      "issue": "2024315",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.531
+    },
+    {
+      "issue": "2024316",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.638
+    },
+    {
+      "issue": "2024317",
+      "signal": "jackpot_defense",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.638
+    },
+    {
+      "issue": "2024318",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.574
+    },
+    {
+      "issue": "2024319",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.43
+    },
+    {
+      "issue": "2024320",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.43
+    },
+    {
+      "issue": "2024321",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.387
+    },
+    {
+      "issue": "2024322",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.387
+    },
+    {
+      "issue": "2024323",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.291
+    },
+    {
+      "issue": "2024324",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.262
+    },
+    {
+      "issue": "2024325",
+      "signal": "jackpot_defense",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024326",
+      "signal": "jackpot_defense",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024327",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024328",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024329",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024330",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024331",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024332",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024333",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024334",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024335",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2024336",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2024337",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.36
+    },
+    {
+      "issue": "2024338",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.432
+    },
+    {
+      "issue": "2024339",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.518
+    },
+    {
+      "issue": "2024340",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2024341",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.56
+    },
+    {
+      "issue": "2024342",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.672
+    },
+    {
+      "issue": "2024343",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.672
+    },
+    {
+      "issue": "2024344",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.605
+    },
+    {
+      "issue": "2024345",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.726
+    },
+    {
+      "issue": "2024346",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.871
+    },
+    {
+      "issue": "2024347",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.045
+    },
+    {
+      "issue": "2024348",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.254
+    },
+    {
+      "issue": "2024349",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.128
+    },
+    {
+      "issue": "2024350",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.354
+    },
+    {
+      "issue": "2024351",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.219
+    },
+    {
+      "issue": "2024352",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.462
+    },
+    {
+      "issue": "2025001",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.316
+    },
+    {
+      "issue": "2025002",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025003",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025004",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025005",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.215
+    },
+    {
+      "issue": "2025006",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2025007",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.45
+    },
+    {
+      "issue": "2025008",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.54
+    },
+    {
+      "issue": "2025009",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025010",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025011",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025012",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.583
+    },
+    {
+      "issue": "2025013",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.583
+    },
+    {
+      "issue": "2025014",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.525
+    },
+    {
+      "issue": "2025015",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.525
+    },
+    {
+      "issue": "2025016",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.472
+    },
+    {
+      "issue": "2025017",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.425
+    },
+    {
+      "issue": "2025018",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.425
+    },
+    {
+      "issue": "2025019",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.383
+    },
+    {
+      "issue": "2025020",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.383
+    },
+    {
+      "issue": "2025021",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.383
+    },
+    {
+      "issue": "2025022",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.344
+    },
+    {
+      "issue": "2025023",
+      "signal": "greedy_momentum",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.344
+    },
+    {
+      "issue": "2025024",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.258
+    },
+    {
+      "issue": "2025025",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.258
+    },
+    {
+      "issue": "2025026",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025027",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025028",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025029",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025030",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025031",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025032",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025033",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.36
+    },
+    {
+      "issue": "2025034",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.432
+    },
+    {
+      "issue": "2025035",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.518
+    },
+    {
+      "issue": "2025036",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.622
+    },
+    {
+      "issue": "2025037",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.56
+    },
+    {
+      "issue": "2025038",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.504
+    },
+    {
+      "issue": "2025039",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.453
+    },
+    {
+      "issue": "2025040",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.408
+    },
+    {
+      "issue": "2025041",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.367
+    },
+    {
+      "issue": "2025042",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.441
+    },
+    {
+      "issue": "2025043",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.529
+    },
+    {
+      "issue": "2025044",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025045",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.571
+    },
+    {
+      "issue": "2025046",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.686
+    },
+    {
+      "issue": "2025047",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.617
+    },
+    {
+      "issue": "2025048",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.555
+    },
+    {
+      "issue": "2025049",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2025050",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2025051",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.72
+    },
+    {
+      "issue": "2025052",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.864
+    },
+    {
+      "issue": "2025053",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.777
+    },
+    {
+      "issue": "2025054",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.699
+    },
+    {
+      "issue": "2025055",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.839
+    },
+    {
+      "issue": "2025056",
+      "signal": "jackpot_defense",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.63
+    },
+    {
+      "issue": "2025057",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.755
+    },
+    {
+      "issue": "2025058",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.567
+    },
+    {
+      "issue": "2025059",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.567
+    },
+    {
+      "issue": "2025060",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.567
+    },
+    {
+      "issue": "2025061",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.425
+    },
+    {
+      "issue": "2025062",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.382
+    },
+    {
+      "issue": "2025063",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.287
+    },
+    {
+      "issue": "2025064",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025065",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025066",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025067",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025068",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025069",
+      "signal": "extreme_hot",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.375
+    },
+    {
+      "issue": "2025070",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.375
+    },
+    {
+      "issue": "2025071",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.375
+    },
+    {
+      "issue": "2025072",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.338
+    },
+    {
+      "issue": "2025073",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.253
+    },
+    {
+      "issue": "2025074",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.304
+    },
+    {
+      "issue": "2025075",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025076",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025077",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025078",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025079",
+      "signal": "greedy_momentum",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025080",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025081",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025082",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025083",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025084",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025085",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025086",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.36
+    },
+    {
+      "issue": "2025087",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.324
+    },
+    {
+      "issue": "2025088",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.292
+    },
+    {
+      "issue": "2025089",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.35
+    },
+    {
+      "issue": "2025090",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025091",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025092",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025093",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025094",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025095",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2025096",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025097",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025098",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025099",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025100",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025101",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025102",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025103",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025104",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025105",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025106",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.27
+    },
+    {
+      "issue": "2025107",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.27
+    },
+    {
+      "issue": "2025108",
+      "signal": "normal",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.405
+    },
+    {
+      "issue": "2025109",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.365
+    },
+    {
+      "issue": "2025110",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.365
+    },
+    {
+      "issue": "2025111",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.328
+    },
+    {
+      "issue": "2025112",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.295
+    },
+    {
+      "issue": "2025113",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.295
+    },
+    {
+      "issue": "2025114",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.295
+    },
+    {
+      "issue": "2025115",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.295
+    },
+    {
+      "issue": "2025116",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.295
+    },
+    {
+      "issue": "2025117",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.266
+    },
+    {
+      "issue": "2025118",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2025119",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025120",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.3
+    },
+    {
+      "issue": "2025121",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.36
+    },
+    {
+      "issue": "2025122",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.432
+    },
+    {
+      "issue": "2025123",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.518
+    },
+    {
+      "issue": "2025124",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.518
+    },
+    {
+      "issue": "2025125",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.518
+    },
+    {
+      "issue": "2025126",
+      "signal": "hot_penalty",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.778
+    },
+    {
+      "issue": "2025127",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.778
+    },
+    {
+      "issue": "2025128",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.778
+    },
+    {
+      "issue": "2025129",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.933
+    },
+    {
+      "issue": "2025130",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.933
+    },
+    {
+      "issue": "2025131",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.933
+    },
+    {
+      "issue": "2025132",
+      "signal": "greedy_momentum",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.84
+    },
+    {
+      "issue": "2025133",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.84
+    },
+    {
+      "issue": "2025134",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.84
+    },
+    {
+      "issue": "2025135",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.008
+    },
+    {
+      "issue": "2025136",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.008
+    },
+    {
+      "issue": "2025137",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.209
+    },
+    {
+      "issue": "2025138",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.088
+    },
+    {
+      "issue": "2025139",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.306
+    },
+    {
+      "issue": "2025140",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.175
+    },
+    {
+      "issue": "2025141",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.411
+    },
+    {
+      "issue": "2025142",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025143",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025144",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025145",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025146",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025147",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025148",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.215
+    },
+    {
+      "issue": "2025149",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.094
+    },
+    {
+      "issue": "2025150",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.312
+    },
+    {
+      "issue": "2025151",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025152",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025153",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025154",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025155",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025156",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025157",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025158",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025159",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025160",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025161",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025162",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025163",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025164",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025165",
+      "signal": "greedy_momentum",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025166",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025167",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025168",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025169",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025170",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025171",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025172",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025173",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.911
+    },
+    {
+      "issue": "2025174",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.82
+    },
+    {
+      "issue": "2025175",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.984
+    },
+    {
+      "issue": "2025176",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.886
+    },
+    {
+      "issue": "2025177",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.063
+    },
+    {
+      "issue": "2025178",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.275
+    },
+    {
+      "issue": "2025179",
+      "signal": "jackpot_defense",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.148
+    },
+    {
+      "issue": "2025180",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.033
+    },
+    {
+      "issue": "2025181",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2025182",
+      "signal": "hot_penalty",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.75
+    },
+    {
+      "issue": "2025183",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.75
+    },
+    {
+      "issue": "2025184",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.75
+    },
+    {
+      "issue": "2025185",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.675
+    },
+    {
+      "issue": "2025186",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.81
+    },
+    {
+      "issue": "2025187",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.972
+    },
+    {
+      "issue": "2025188",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.166
+    },
+    {
+      "issue": "2025189",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.05
+    },
+    {
+      "issue": "2025190",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.945
+    },
+    {
+      "issue": "2025191",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.134
+    },
+    {
+      "issue": "2025192",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.02
+    },
+    {
+      "issue": "2025193",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.918
+    },
+    {
+      "issue": "2025194",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.102
+    },
+    {
+      "issue": "2025195",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.992
+    },
+    {
+      "issue": "2025196",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.992
+    },
+    {
+      "issue": "2025197",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.893
+    },
+    {
+      "issue": "2025198",
+      "signal": "jackpot_defense",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.669
+    },
+    {
+      "issue": "2025199",
+      "signal": "greedy_momentum",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.603
+    },
+    {
+      "issue": "2025200",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.603
+    },
+    {
+      "issue": "2025201",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.723
+    },
+    {
+      "issue": "2025202",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.651
+    },
+    {
+      "issue": "2025203",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.781
+    },
+    {
+      "issue": "2025204",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.937
+    },
+    {
+      "issue": "2025205",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.124
+    },
+    {
+      "issue": "2025206",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.012
+    },
+    {
+      "issue": "2025207",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.012
+    },
+    {
+      "issue": "2025208",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.911
+    },
+    {
+      "issue": "2025209",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.82
+    },
+    {
+      "issue": "2025210",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.82
+    },
+    {
+      "issue": "2025211",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.738
+    },
+    {
+      "issue": "2025212",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.738
+    },
+    {
+      "issue": "2025213",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2025214",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2025215",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2025216",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2025217",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2025218",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.498
+    },
+    {
+      "issue": "2025219",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.373
+    },
+    {
+      "issue": "2025220",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.373
+    },
+    {
+      "issue": "2025234",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.373
+    },
+    {
+      "issue": "2025235",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.336
+    },
+    {
+      "issue": "2025236",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.303
+    },
+    {
+      "issue": "2025237",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.363
+    },
+    {
+      "issue": "2025238",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.436
+    },
+    {
+      "issue": "2025239",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.523
+    },
+    {
+      "issue": "2025240",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.47
+    },
+    {
+      "issue": "2025241",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.47
+    },
+    {
+      "issue": "2025242",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.353
+    },
+    {
+      "issue": "2025243",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.353
+    },
+    {
+      "issue": "2025244",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.318
+    },
+    {
+      "issue": "2025245",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.381
+    },
+    {
+      "issue": "2025246",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.457
+    },
+    {
+      "issue": "2025247",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.412
+    },
+    {
+      "issue": "2025248",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.494
+    },
+    {
+      "issue": "2025249",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.593
+    },
+    {
+      "issue": "2025250",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.711
+    },
+    {
+      "issue": "2025251",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.853
+    },
+    {
+      "issue": "2025252",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.024
+    },
+    {
+      "issue": "2025253",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.922
+    },
+    {
+      "issue": "2025254",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.922
+    },
+    {
+      "issue": "2025255",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.922
+    },
+    {
+      "issue": "2025256",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.922
+    },
+    {
+      "issue": "2025257",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.922
+    },
+    {
+      "issue": "2025258",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.106
+    },
+    {
+      "issue": "2025259",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.327
+    },
+    {
+      "issue": "2025260",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.195
+    },
+    {
+      "issue": "2025261",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.433
+    },
+    {
+      "issue": "2025262",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.29
+    },
+    {
+      "issue": "2025263",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.29
+    },
+    {
+      "issue": "2025264",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.29
+    },
+    {
+      "issue": "2025265",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.29
+    },
+    {
+      "issue": "2025266",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.968
+    },
+    {
+      "issue": "2025267",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.968
+    },
+    {
+      "issue": "2025268",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.871
+    },
+    {
+      "issue": "2025269",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.784
+    },
+    {
+      "issue": "2025270",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.784
+    },
+    {
+      "issue": "2025271",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.588
+    },
+    {
+      "issue": "2025272",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.588
+    },
+    {
+      "issue": "2025273",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.529
+    },
+    {
+      "issue": "2025274",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.529
+    },
+    {
+      "issue": "2025275",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.529
+    },
+    {
+      "issue": "2025276",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025277",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025278",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025279",
+      "signal": "jackpot_defense",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025280",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025281",
+      "signal": "greedy_momentum",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.635
+    },
+    {
+      "issue": "2025282",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.476
+    },
+    {
+      "issue": "2025283",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.429
+    },
+    {
+      "issue": "2025284",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.429
+    },
+    {
+      "issue": "2025285",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.386
+    },
+    {
+      "issue": "2025286",
+      "signal": "cold_reversion",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.578
+    },
+    {
+      "issue": "2025287",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.578
+    },
+    {
+      "issue": "2025288",
+      "signal": "hot_penalty",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.868
+    },
+    {
+      "issue": "2025289",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.781
+    },
+    {
+      "issue": "2025290",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.781
+    },
+    {
+      "issue": "2025291",
+      "signal": "hot_penalty",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 1.171
+    },
+    {
+      "issue": "2025292",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.171
+    },
+    {
+      "issue": "2025293",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.406
+    },
+    {
+      "issue": "2025294",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.265
+    },
+    {
+      "issue": "2025295",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.139
+    },
+    {
+      "issue": "2025296",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.366
+    },
+    {
+      "issue": "2025297",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.366
+    },
+    {
+      "issue": "2025298",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025299",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025300",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025301",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2025302",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.215
+    },
+    {
+      "issue": "2025303",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.094
+    },
+    {
+      "issue": "2025304",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.984
+    },
+    {
+      "issue": "2025305",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2025306",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2025307",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.54
+    },
+    {
+      "issue": "2025308",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025309",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025310",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.778
+    },
+    {
+      "issue": "2025311",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.7
+    },
+    {
+      "issue": "2025312",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.63
+    },
+    {
+      "issue": "2025313",
+      "signal": "cold_reversion",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.945
+    },
+    {
+      "issue": "2025314",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.134
+    },
+    {
+      "issue": "2025315",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.36
+    },
+    {
+      "issue": "2025316",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.36
+    },
+    {
+      "issue": "2025317",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.224
+    },
+    {
+      "issue": "2025318",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.102
+    },
+    {
+      "issue": "2025319",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.826
+    },
+    {
+      "issue": "2025320",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.826
+    },
+    {
+      "issue": "2025321",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.992
+    },
+    {
+      "issue": "2025322",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.992
+    },
+    {
+      "issue": "2025323",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.893
+    },
+    {
+      "issue": "2025324",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.893
+    },
+    {
+      "issue": "2025325",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.071
+    },
+    {
+      "issue": "2025326",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.964
+    },
+    {
+      "issue": "2025327",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.157
+    },
+    {
+      "issue": "2025328",
+      "signal": "jackpot_defense",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.041
+    },
+    {
+      "issue": "2025329",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.249
+    },
+    {
+      "issue": "2025330",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.249
+    },
+    {
+      "issue": "2025331",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.124
+    },
+    {
+      "issue": "2025332",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.012
+    },
+    {
+      "issue": "2025333",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2025334",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2025335",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.72
+    },
+    {
+      "issue": "2025336",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.648
+    },
+    {
+      "issue": "2025337",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.778
+    },
+    {
+      "issue": "2025338",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.933
+    },
+    {
+      "issue": "2025339",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.12
+    },
+    {
+      "issue": "2025340",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.344
+    },
+    {
+      "issue": "2025341",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025342",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025343",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025344",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025345",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025346",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025347",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025348",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025349",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2025350",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2025351",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.215
+    },
+    {
+      "issue": "2026001",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.215
+    },
+    {
+      "issue": "2026002",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.094
+    },
+    {
+      "issue": "2026003",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.82
+    },
+    {
+      "issue": "2026004",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.738
+    },
+    {
+      "issue": "2026005",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2026006",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2026007",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.598
+    },
+    {
+      "issue": "2026008",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.538
+    },
+    {
+      "issue": "2026009",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.484
+    },
+    {
+      "issue": "2026010",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.484
+    },
+    {
+      "issue": "2026011",
+      "signal": "cold_reversion",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.726
+    },
+    {
+      "issue": "2026012",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.872
+    },
+    {
+      "issue": "2026013",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.785
+    },
+    {
+      "issue": "2026014",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.706
+    },
+    {
+      "issue": "2026015",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2026016",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2026017",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2026018",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.54
+    },
+    {
+      "issue": "2026019",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026020",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026021",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026022",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026023",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026024",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.486
+    },
+    {
+      "issue": "2026025",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.437
+    },
+    {
+      "issue": "2026026",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.394
+    },
+    {
+      "issue": "2026027",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.472
+    },
+    {
+      "issue": "2026028",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.425
+    },
+    {
+      "issue": "2026029",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.383
+    },
+    {
+      "issue": "2026030",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.459
+    },
+    {
+      "issue": "2026031",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.551
+    },
+    {
+      "issue": "2026032",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.496
+    },
+    {
+      "issue": "2026033",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.595
+    },
+    {
+      "issue": "2026034",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.714
+    },
+    {
+      "issue": "2026035",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.857
+    },
+    {
+      "issue": "2026036",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.028
+    },
+    {
+      "issue": "2026037",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.925
+    },
+    {
+      "issue": "2026038",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.833
+    },
+    {
+      "issue": "2026039",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.0
+    },
+    {
+      "issue": "2026040",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.199
+    },
+    {
+      "issue": "2026041",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.079
+    },
+    {
+      "issue": "2026042",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.295
+    },
+    {
+      "issue": "2026043",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 1.5
+    },
+    {
+      "issue": "2026044",
+      "signal": "jackpot_defense",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 1.35
+    },
+    {
+      "issue": "2026045",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 1.013
+    },
+    {
+      "issue": "2026046",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.759
+    },
+    {
+      "issue": "2026047",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.683
+    },
+    {
+      "issue": "2026048",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.683
+    },
+    {
+      "issue": "2026049",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.683
+    },
+    {
+      "issue": "2026050",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026051",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026052",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026053",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026054",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026055",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.513
+    },
+    {
+      "issue": "2026056",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.615
+    },
+    {
+      "issue": "2026057",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.738
+    },
+    {
+      "issue": "2026058",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.664
+    },
+    {
+      "issue": "2026059",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.598
+    },
+    {
+      "issue": "2026060",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.598
+    },
+    {
+      "issue": "2026061",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.598
+    },
+    {
+      "issue": "2026062",
+      "signal": "normal",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.717
+    },
+    {
+      "issue": "2026063",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.861
+    },
+    {
+      "issue": "2026064",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.646
+    },
+    {
+      "issue": "2026065",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.646
+    },
+    {
+      "issue": "2026066",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.646
+    },
+    {
+      "issue": "2026067",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.775
+    },
+    {
+      "issue": "2026068",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.697
+    },
+    {
+      "issue": "2026069",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.628
+    },
+    {
+      "issue": "2026070",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.753
+    },
+    {
+      "issue": "2026071",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.904
+    },
+    {
+      "issue": "2026072",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.678
+    },
+    {
+      "issue": "2026073",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.678
+    },
+    {
+      "issue": "2026074",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.508
+    },
+    {
+      "issue": "2026075",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.458
+    },
+    {
+      "issue": "2026076",
+      "signal": "extreme_hot",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.412
+    },
+    {
+      "issue": "2026077",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.412
+    },
+    {
+      "issue": "2026078",
+      "signal": "normal",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.371
+    },
+    {
+      "issue": "2026079",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.371
+    },
+    {
+      "issue": "2026080",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.445
+    },
+    {
+      "issue": "2026081",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.4
+    },
+    {
+      "issue": "2026082",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.48
+    },
+    {
+      "issue": "2026083",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.432
+    },
+    {
+      "issue": "2026084",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.519
+    },
+    {
+      "issue": "2026085",
+      "signal": "jackpot_defense",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026086",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026087",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026088",
+      "signal": "greedy_momentum",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026089",
+      "signal": "extreme_hot",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026090",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026091",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.467
+    },
+    {
+      "issue": "2026092",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.42
+    },
+    {
+      "issue": "2026093",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.315
+    },
+    {
+      "issue": "2026094",
+      "signal": "extreme_hot",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026095",
+      "signal": "hot_penalty",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026096",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026097",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026098",
+      "signal": "hot_penalty",
+      "grade": "reckless",
+      "pnl": -10.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026099",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 0.25
+    },
+    {
+      "issue": "2026100",
+      "signal": "cold_reversion",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.375
+    },
+    {
+      "issue": "2026101",
+      "signal": "normal",
+      "grade": "jackpot",
+      "pnl": 1010.0,
+      "multiplier": 0.562
+    },
+    {
+      "issue": "2026102",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.675
+    },
+    {
+      "issue": "2026103",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.607
+    },
+    {
+      "issue": "2026104",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.729
+    },
+    {
+      "issue": "2026105",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.656
+    },
+    {
+      "issue": "2026106",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.787
+    },
+    {
+      "issue": "2026107",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.945
+    },
+    {
+      "issue": "2026108",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 1.134
+    },
+    {
+      "issue": "2026109",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 1.02
+    },
+    {
+      "issue": "2026110",
+      "signal": "normal",
+      "grade": "good",
+      "pnl": -30.0,
+      "multiplier": 1.02
+    },
+    {
+      "issue": "2026111",
+      "signal": "hot_penalty",
+      "grade": "poor",
+      "pnl": -30.0,
+      "multiplier": 0.918
+    },
+    {
+      "issue": "2026112",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.826
+    },
+    {
+      "issue": "2026113",
+      "signal": "cold_reversion",
+      "grade": "poor_cold",
+      "pnl": -30.0,
+      "multiplier": 0.5
+    },
+    {
+      "issue": "2026114",
+      "signal": "cold_reversion",
+      "grade": "excellent",
+      "pnl": -10.0,
+      "multiplier": 0.6
+    },
+    {
+      "issue": "2026115",
+      "signal": "cold_reversion",
+      "grade": "bonus",
+      "pnl": -30.0,
+      "multiplier": 0.72
+    }
+  ]
+}
